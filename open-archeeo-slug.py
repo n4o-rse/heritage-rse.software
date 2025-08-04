@@ -40,20 +40,31 @@ if not duplicated_slugs.empty:
 # Add internal row ID (1-based)
 df['internal_id'] = df.index + 1
 
-# Create final DataFrame for export
+# Define relevant software categories
+software_categories = ["Packages and libraries", "Standalone software", "Scripts"]
+
+# Base URI
 base_uri = "https://open-archaeo.info/post/"
+
+# Full output DataFrame
 output_df = pd.DataFrame({
     "internal_id": df["internal_id"],
     "id": df["slug"],
     "name": df["item_name"],
+    "category": df["category"],
     "URI": base_uri + df["slug"]
 })
 
-# Export as CSV
-output_df.to_csv("open-archaeo-slugs.csv", index=False)
+# Software-only subset
+software_df = output_df[output_df["category"].isin(software_categories)]
 
-# Print preview of output
-print(output_df.head(10))
+# Export both CSV files
+output_df.to_csv("open-archaeo-slugs.csv", index=False)
+software_df.to_csv("open-archaeo-software-slugs.csv", index=False)
+
+# Print preview of software entries
+print("\n--- Software Entries Preview ---")
+print(software_df.head(10))
 
 # Generate slug statistics
 total_items = len(df)

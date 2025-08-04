@@ -26,7 +26,6 @@ internal_id,id,name,category,URI
 25,archaeolines,ArchaeoLines,Packages and libraries,https://open-archaeo.info/post/archaeolines
 26,pathaar,pathAAR,Packages and libraries,https://open-archaeo.info/post/pathaar
 27,transit,TRANSIT,Packages and libraries,https://open-archaeo.info/post/transit
-28,chrono-spatial-modelling,chrono_spatial_modelling,Guides,https://open-archaeo.info/post/chrono-spatial-modelling
 29,qgis-topographic-networks,QGIS-topographic-networks,Packages and libraries,https://open-archaeo.info/post/qgis-topographic-networks
 30,leastcostpath,leastcostpath,Packages and libraries,https://open-archaeo.info/post/leastcostpath
 31,field-photographs,field-photographs,Packages and libraries,https://open-archaeo.info/post/field-photographs
@@ -76,14 +75,11 @@ internal_id,id,name,category,URI
 75,cuneipainter,CuneiPainter,Packages and libraries,https://open-archaeo.info/post/cuneipainter
 76,recexcavaar,recexcavAAR,Packages and libraries,https://open-archaeo.info/post/recexcavaar
 77,lithics3d,Lithics3D,Packages and libraries,https://open-archaeo.info/post/lithics3d
-78,3d-ceramics,3d-ceramics,Lists and datasets,https://open-archaeo.info/post/3d-ceramics
-79,italy-3d-amphitheaters,italy-3d-amphitheaters,Lists and datasets,https://open-archaeo.info/post/italy-3d-amphitheaters
 80,cherish,cherish,Standalone software,https://open-archaeo.info/post/cherish
 81,meshlab,meshlab,Standalone software,https://open-archaeo.info/post/meshlab
 82,rti,rti,Scripts,https://open-archaeo.info/post/rti
 83,rtibuilder,RTIBuilder,Standalone software,https://open-archaeo.info/post/rtibuilder
 84,rtiviewer,RTIViewer,Standalone software,https://open-archaeo.info/post/rtiviewer
-85,photogrammetry-datasets,photogrammetry_datasets,Lists and datasets,https://open-archaeo.info/post/photogrammetry-datasets
 86,photogrammetry-object-scannner,photogrammetry-object-scannner,Standalone software,https://open-archaeo.info/post/photogrammetry-object-scannner
 87,arfloorplanapp,ARFloorPlanApp,Standalone software,https://open-archaeo.info/post/arfloorplanapp
 88,arshm-release,arshm-release,Packages and libraries,https://open-archaeo.info/post/arshm-release
@@ -133,28 +129,14 @@ internal_id,id,name,category,URI
 132,fiche-stratigraphique-numérique-(fsn),Fiche Stratigraphique Numérique (FSN),Standalone software,https://open-archaeo.info/post/fiche-stratigraphique-numérique-(fsn)
 133,quari,QuARI,Scripts,https://open-archaeo.info/post/quari
 134,paleocorer,paleocoreR,Packages and libraries,https://open-archaeo.info/post/paleocorer
-135,binford,binford,Lists and datasets,https://open-archaeo.info/post/binford
-136,evoarchdata,evoarchdata,Lists and datasets,https://open-archaeo.info/post/evoarchdata
-137,dobsiss,DObsiSS,Lists and datasets,https://open-archaeo.info/post/dobsiss
 138,cawd,cawd,Packages and libraries,https://open-archaeo.info/post/cawd
 139,shkrdata,shkrdata,Packages and libraries,https://open-archaeo.info/post/shkrdata
 140,archdata,archdata,Packages and libraries,https://open-archaeo.info/post/archdata
 141,benmarwickopencontext,benmarwickopencontext.r,Scripts,https://open-archaeo.info/post/benmarwickopencontext
 142,radiocarbon-scrapers,radiocarbon-scrapers,Scripts,https://open-archaeo.info/post/radiocarbon-scrapers
-143,r-scripts,R-Scripts,Lists and datasets,https://open-archaeo.info/post/r-scripts
-144,roman-empire,roman-empire,Lists and datasets,https://open-archaeo.info/post/roman-empire
-145,roman-amphitheaters-sfsheath,roman-amphitheaters,Lists and datasets,https://open-archaeo.info/post/roman-amphitheaters-sfsheath
-146,ramphs,ramphs,Lists and datasets,https://open-archaeo.info/post/ramphs
-147,roman-maps,roman-maps,Lists and datasets,https://open-archaeo.info/post/roman-maps
-148,gorbit,gorbit,Lists and datasets,https://open-archaeo.info/post/gorbit
-149,rorbium,rorbium,Lists and datasets,https://open-archaeo.info/post/rorbium
-150,aca-data-collection,aca_data_collection,Lists and datasets,https://open-archaeo.info/post/aca-data-collection
-151,ancient-ceramic-kilns,ancient-ceramic-kilns,Lists and datasets,https://open-archaeo.info/post/ancient-ceramic-kilns
 152,neotoma,neotoma,Packages and libraries,https://open-archaeo.info/post/neotoma
 153,c14bazaar,c14bazAAR,Packages and libraries,https://open-archaeo.info/post/c14bazaar
 154,paleofire,paleofire,Packages and libraries,https://open-archaeo.info/post/paleofire
-155,gcd,GCD,Lists and datasets,https://open-archaeo.info/post/gcd
-156,roman-material-database-info,Roman-material-database-info,Lists and datasets,https://open-archaeo.info/post/roman-material-database-info
 157,archaeology-data-service,archaeology-data-service,Packages and libraries,https://open-archaeo.info/post/archaeology-data-service
 158,munsell-plot,munsell-plot.R,Scripts,https://open-archaeo.info/post/munsell-plot
 159,ceramic-frequency-date-plot,Ceramic-Frequency-Date-Plot,Scripts,https://open-archaeo.info/post/ceramic-frequency-date-plot
@@ -166,55 +148,12 @@ internal_id,id,name,category,URI
 165,archaeological-object-sharing,archaeological-object-sharing,Standalone software,https://open-archaeo.info/post/archaeological-object-sharing
 166,open-context-py,open-context-py,Standalone software,https://open-archaeo.info/post/open-context-py
 167,paleocore,paleocore,Standalone software,https://open-archaeo.info/post/paleocore
-168,nrhp-metadata-scheme,NRHP_Metadata_Scheme,"Specifications, protocols and schemas",https://open-archaeo.info/post/nrhp-metadata-scheme
-169,arcscore,ARCSCore,"Specifications, protocols and schemas",https://open-archaeo.info/post/arcscore
-170,archvocab,archvocab,"Specifications, protocols and schemas",https://open-archaeo.info/post/archvocab
-171,rppsfs,rppsfs,"Specifications, protocols and schemas",https://open-archaeo.info/post/rppsfs
-172,inclusions,inclusions,"Specifications, protocols and schemas",https://open-archaeo.info/post/inclusions
 173,poseidon-framework,poseidon-framework,Standalone software,https://open-archaeo.info/post/poseidon-framework
 174,totalopenstation,totalopenstation,Standalone software,https://open-archaeo.info/post/totalopenstation
-175,total-station-manuals,total-station-manuals,Guides,https://open-archaeo.info/post/total-station-manuals
 176,totalstation-tools,totalstation-tools,Packages and libraries,https://open-archaeo.info/post/totalstation-tools
-177,atlantgis,AtlantGIS,Lists and datasets,https://open-archaeo.info/post/atlantgis
-178,gis-projects,GIS-Projects,Guides,https://open-archaeo.info/post/gis-projects
-179,odate,ODATE,Guides,https://open-archaeo.info/post/odate
-180,digital-encyclopedia-of-archaeologists,Digital Encyclopedia of Archaeologists,Lists and datasets,https://open-archaeo.info/post/digital-encyclopedia-of-archaeologists
-181,a-mobile-data-collection-workflow-for-archaeologists,A Mobile Data-Collection Workflow for Archaeologists,Guides,https://open-archaeo.info/post/a-mobile-data-collection-workflow-for-archaeologists
-182,a-scientific-computing-environment-for-archaeology-txt,a-scientific-computing-environment-for-archaeology.txt,Guides,https://open-archaeo.info/post/a-scientific-computing-environment-for-archaeology-txt
-183,grass-arch,grass-arch,Guides,https://open-archaeo.info/post/grass-arch
-184,teaching-rome,teaching-rome,Guides,https://open-archaeo.info/post/teaching-rome
-185,vitutr,vitutr,Guides,https://open-archaeo.info/post/vitutr
-186,pred-map-tut,pred_map_tut,Guides,https://open-archaeo.info/post/pred-map-tut
-187,diyfieldworkdatabase,DIYFieldworkDatabase,Guides,https://open-archaeo.info/post/diyfieldworkdatabase
-188,archaeo-db-workshop,archaeo-db-workshop,Guides,https://open-archaeo.info/post/archaeo-db-workshop
-189,svg-pottery,svg-pottery,Guides,https://open-archaeo.info/post/svg-pottery
 190,la-icp-ms-routines-fmnh,LA_ICP_MS-Routines_FMNH,Scripts,https://open-archaeo.info/post/la-icp-ms-routines-fmnh
-191,archaeology-on-wikipedia,archaeology_on_wikipedia.R,Products,https://open-archaeo.info/post/archaeology-on-wikipedia
-192,tweet-edits-to-archaeology-articles,tweet-edits-to-archaeology-articles.R,Products,https://open-archaeo.info/post/tweet-edits-to-archaeology-articles
-193,dayofarchaeology-benmarwick,dayofarchaeology,Products,https://open-archaeo.info/post/dayofarchaeology-benmarwick
-194,dayofarchaeology-drmattlaw,dayofarchaeology,Lists and datasets,https://open-archaeo.info/post/dayofarchaeology-drmattlaw
-195,maacgis,maacgis,Products,https://open-archaeo.info/post/maacgis
-196,disastermap,disastermap,Products,https://open-archaeo.info/post/disastermap
-197,sipontomedievale,sipontomedievale,Products,https://open-archaeo.info/post/sipontomedievale
-198,archaeologyadventure,ArchaeologyAdventure,Products,https://open-archaeo.info/post/archaeologyadventure
-199,gods-on-the-barge,gods_on_the_barge,Products,https://open-archaeo.info/post/gods-on-the-barge
 200,anatolia-bibliography-map,anatolia-bibliography-map,Standalone software,https://open-archaeo.info/post/anatolia-bibliography-map
-201,open-archaeo,open-archaeo,Lists and datasets,https://open-archaeo.info/post/open-archaeo
-202,archaeology-steko,archaeology,Lists and datasets,https://open-archaeo.info/post/archaeology-steko
-203,ctv-archaeology,ctv-archaeology,Lists and datasets,https://open-archaeo.info/post/ctv-archaeology
-204,open-access-archaeology,Open Access Archaeology,Lists and datasets,https://open-archaeo.info/post/open-access-archaeology
-205,tools-for-quantitative-archaeology,Tools for Quantitative Archaeology,Lists and datasets,https://open-archaeo.info/post/tools-for-quantitative-archaeology
-206,isaac's-list-of-foss-tools-for-academics-and-what-to-use-them-for!,Isaac's List of FOSS tools for academics... and what to use them for!,Lists and datasets,https://open-archaeo.info/post/isaac's-list-of-foss-tools-for-academics-and-what-to-use-them-for!
-207,levant-zooarch,levant-zooarch,Lists and datasets,https://open-archaeo.info/post/levant-zooarch
-208,roundup-of-resources-on-ancient-geography,Roundup of Resources on Ancient Geography,Lists and datasets,https://open-archaeo.info/post/roundup-of-resources-on-ancient-geography
-209,the-awol-index,The AWOL Index,Lists and datasets,https://open-archaeo.info/post/the-awol-index
-210,gitmuseum,gitMuseum,Lists and datasets,https://open-archaeo.info/post/gitmuseum
-211,openarchaeology-net,OpenArchaeology.net,Lists and datasets,https://open-archaeo.info/post/openarchaeology-net
-212,cca,cca,Products,https://open-archaeo.info/post/cca
-213,archaeology-grand-challenges,archaeology-grand-challenges.r,Products,https://open-archaeo.info/post/archaeology-grand-challenges
-214,caa2019-halfway-house,caa2019_halfway_house,Guides,https://open-archaeo.info/post/caa2019-halfway-house
 215,signboardr,signboardr,Packages and libraries,https://open-archaeo.info/post/signboardr
-216,ceramic-dashboard,Ceramic_Dashboard,Products,https://open-archaeo.info/post/ceramic-dashboard
 217,missing,missing,Scripts,https://open-archaeo.info/post/missing
 218,soiltexture,soiltexture,Packages and libraries,https://open-archaeo.info/post/soiltexture
 219,sparch,sparch,Packages and libraries,https://open-archaeo.info/post/sparch
@@ -224,27 +163,18 @@ internal_id,id,name,category,URI
 223,qgis-scripts,QGIS-scripts,Packages and libraries,https://open-archaeo.info/post/qgis-scripts
 224,sériation-de-matrice-en-présence-absence,Sériation de matrice en présence/absence,Scripts,https://open-archaeo.info/post/sériation-de-matrice-en-présence-absence
 225,calibrator,calibrator,Standalone software,https://open-archaeo.info/post/calibrator
-226,radon,radon,Products,https://open-archaeo.info/post/radon
-227,analysing-archaeological-radiocabon-ages-using-r,Analysing-Archaeological-Radiocabon-Ages-Using-R,Guides,https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using-r
 228,rintchron,rintchron,Packages and libraries,https://open-archaeo.info/post/rintchron
 229,archeofrag,archeofrag,Packages and libraries,https://open-archaeo.info/post/archeofrag
 230,opencontext,opencontext,Packages and libraries,https://open-archaeo.info/post/opencontext
-231,archstopmo,archstopmo,Products,https://open-archaeo.info/post/archstopmo
 232,allen-archaeology,allen.archaeology,Packages and libraries,https://open-archaeo.info/post/allen-archaeology
 233,demjanp,demjanp,Packages and libraries,https://open-archaeo.info/post/demjanp
-234,arran,Arran,Lists and datasets,https://open-archaeo.info/post/arran
 235,arkhe,arkhe,Packages and libraries,https://open-archaeo.info/post/arkhe
 236,era,era,Packages and libraries,https://open-archaeo.info/post/era
 237,tfqar,tfqar,Packages and libraries,https://open-archaeo.info/post/tfqar
-238,ancientmetagenomedir,AncientMetagenomeDir,Lists and datasets,https://open-archaeo.info/post/ancientmetagenomedir
 239,arches,arches,Standalone software,https://open-archaeo.info/post/arches
-240,potential-datasets-for-phd-projects,Potential datasets for PhD projects,Lists and datasets,https://open-archaeo.info/post/potential-datasets-for-phd-projects
 241,admur,ADMUR,Packages and libraries,https://open-archaeo.info/post/admur
-242,classical-and-ancient-linked-open-data,Classical and ancient Linked Open Data,Lists and datasets,https://open-archaeo.info/post/classical-and-ancient-linked-open-data
 243,odk-forms-archaeology,ODK-forms-archaeology,Packages and libraries,https://open-archaeo.info/post/odk-forms-archaeology
-244,harris-matrix-data-package,harris-matrix-data-package,"Specifications, protocols and schemas",https://open-archaeo.info/post/harris-matrix-data-package
 245,fix-exif-artist,Fix-exif-artist,Scripts,https://open-archaeo.info/post/fix-exif-artist
-246,tridas,tridas,"Specifications, protocols and schemas",https://open-archaeo.info/post/tridas
 247,expotime,expotime,Scripts,https://open-archaeo.info/post/expotime
 248,zoolog,zoolog,Packages and libraries,https://open-archaeo.info/post/zoolog
 249,iconr,iconr,Packages and libraries,https://open-archaeo.info/post/iconr
@@ -252,16 +182,13 @@ internal_id,id,name,category,URI
 251,anthropmmd,anthropmmd,Packages and libraries,https://open-archaeo.info/post/anthropmmd
 252,rdss,rdss,Packages and libraries,https://open-archaeo.info/post/rdss
 253,3d-organ,3D-ORGAN,Scripts,https://open-archaeo.info/post/3d-organ
-254,map-of-ancient-egypt,map-of-Ancient-Egypt,Lists and datasets,https://open-archaeo.info/post/map-of-ancient-egypt
 255,unstruwwel,unstruwwel,Packages and libraries,https://open-archaeo.info/post/unstruwwel
 256,max,MAX,Standalone software,https://open-archaeo.info/post/max
 257,humanos,HumanOS,Packages and libraries,https://open-archaeo.info/post/humanos
 258,archaide,ArchAIDE,Standalone software,https://open-archaeo.info/post/archaide
-259,archaeo-term,Archaeo-Term,"Specifications, protocols and schemas",https://open-archaeo.info/post/archaeo-term
 260,c14,c14,Packages and libraries,https://open-archaeo.info/post/c14
 261,piwigo-3dhop,piwigo-3dhop,Packages and libraries,https://open-archaeo.info/post/piwigo-3dhop
 262,rpaleoclim,rpaleoclim,Packages and libraries,https://open-archaeo.info/post/rpaleoclim
-263,tavo-a27,tavo-a27,Lists and datasets,https://open-archaeo.info/post/tavo-a27
 264,baydem,baydem,Packages and libraries,https://open-archaeo.info/post/baydem
 265,allen-relations,allen-relations,Packages and libraries,https://open-archaeo.info/post/allen-relations
 266,oxcaar,oxcAAR,Packages and libraries,https://open-archaeo.info/post/oxcaar
@@ -270,10 +197,8 @@ internal_id,id,name,category,URI
 269,neiman1995,neiman1995,Scripts,https://open-archaeo.info/post/neiman1995
 270,skyscaper,skyscapeR,Packages and libraries,https://open-archaeo.info/post/skyscaper
 271,fastmarching,fastmaRching,Packages and libraries,https://open-archaeo.info/post/fastmarching
-272,adrac,aDRAC,Lists and datasets,https://open-archaeo.info/post/adrac
 273,seriation-mhahsler,seriation,Packages and libraries,https://open-archaeo.info/post/seriation-mhahsler
 274,bleiglas,bleiglas,Packages and libraries,https://open-archaeo.info/post/bleiglas
-275,calpal-database,CalPal-Database,Lists and datasets,https://open-archaeo.info/post/calpal-database
 276,neolithicr,neolithicR,Scripts,https://open-archaeo.info/post/neolithicr
 277,idaifieldr,idaifieldR,Packages and libraries,https://open-archaeo.info/post/idaifieldr
 278,idai-field,iDAI.field,Standalone software,https://open-archaeo.info/post/idai-field
@@ -282,47 +207,30 @@ internal_id,id,name,category,URI
 281,outliner-benmarwick,outliner,Packages and libraries,https://open-archaeo.info/post/outliner-benmarwick
 282,outliner-yesdavid,outlineR,Packages and libraries,https://open-archaeo.info/post/outliner-yesdavid
 283,thanados,THANADOS,Standalone software,https://open-archaeo.info/post/thanados
-284,swapdata,swapdata,Lists and datasets,https://open-archaeo.info/post/swapdata
-285,c14-laboratory-code,c14-laboratory-code,Lists and datasets,https://open-archaeo.info/post/c14-laboratory-code
-286,rapanui-radiocarbon,rapanui-radiocarbon,Lists and datasets,https://open-archaeo.info/post/rapanui-radiocarbon
-287,git-to-the-point,Git-to-the-Point,Lists and datasets,https://open-archaeo.info/post/git-to-the-point
 288,caddonet,caddonet,Standalone software,https://open-archaeo.info/post/caddonet
 289,seriation-clipo,Seriation,Packages and libraries,https://open-archaeo.info/post/seriation-clipo
 290,openatlas,OpenAtlas,Standalone software,https://open-archaeo.info/post/openatlas
 291,statuaar,statuAAR,Packages and libraries,https://open-archaeo.info/post/statuaar
 292,postaar-python,postAAR-python,Packages and libraries,https://open-archaeo.info/post/postaar-python
 293,postaar,postAAR,Packages and libraries,https://open-archaeo.info/post/postaar
-294,nonekxml,nonekXML,"Specifications, protocols and schemas",https://open-archaeo.info/post/nonekxml
 295,lecaar,lecAAR,Packages and libraries,https://open-archaeo.info/post/lecaar
 296,dimensio,dimensio,Packages and libraries,https://open-archaeo.info/post/dimensio
-297,folio-nfrerebeau,folio,Lists and datasets,https://open-archaeo.info/post/folio-nfrerebeau
 298,yada,yada,Packages and libraries,https://open-archaeo.info/post/yada
 299,paleocar,paleocar,Packages and libraries,https://open-archaeo.info/post/paleocar
 300,the-southwestern-taphonomic-protocol,The Southwestern Taphonomic Protocol,Packages and libraries,https://open-archaeo.info/post/the-southwestern-taphonomic-protocol
 301,tdar,tdar,Packages and libraries,https://open-archaeo.info/post/tdar
-302,the-abm-in-archaeology-bibliography,The ABM in Archaeology Bibliography,Lists and datasets,https://open-archaeo.info/post/the-abm-in-archaeology-bibliography
-303,abm-tutorials,ABM tutorials,Lists and datasets,https://open-archaeo.info/post/abm-tutorials
 304,spartaas,SPARTAAS,Packages and libraries,https://open-archaeo.info/post/spartaas
 305,bonify,Bonify,Standalone software,https://open-archaeo.info/post/bonify
 306,alligator,Alligator,Standalone software,https://open-archaeo.info/post/alligator
 307,geocore,geoCore,Packages and libraries,https://open-archaeo.info/post/geocore
-308,day-of-archaeology-archive,Day of Archaeology Archive,Lists and datasets,https://open-archaeo.info/post/day-of-archaeology-archive
 309,tachy2gis,Tachy2GIS,Standalone software,https://open-archaeo.info/post/tachy2gis
 310,bioanth,bioanth,Packages and libraries,https://open-archaeo.info/post/bioanth
-311,roman-amphitheaters-roman-amphitheaters,roman-amphitheaters,Lists and datasets,https://open-archaeo.info/post/roman-amphitheaters-roman-amphitheaters
-312,caribbean-14c,caribbean-14C,Lists and datasets,https://open-archaeo.info/post/caribbean-14c
-313,crop-origins-phylo,Crop_Origins_Phylo,Lists and datasets,https://open-archaeo.info/post/crop-origins-phylo
-314,nerd,NERD,Lists and datasets,https://open-archaeo.info/post/nerd
 315,roomaccum,RoomAccum,Standalone software,https://open-archaeo.info/post/roomaccum
 316,babylonian-hours,babylonian-hours,Standalone software,https://open-archaeo.info/post/babylonian-hours
-317,pe-dictionary,pe-dictionary,Lists and datasets,https://open-archaeo.info/post/pe-dictionary
 318,hammurabi-markov,hammurabi-markov,Standalone software,https://open-archaeo.info/post/hammurabi-markov
 319,cleanc14,cleanc14,Packages and libraries,https://open-archaeo.info/post/cleanc14
-320,racisminarchy,racisminarchy,Products,https://open-archaeo.info/post/racisminarchy
 321,tachy2gis-arch,Tachy2GIS_arch,Packages and libraries,https://open-archaeo.info/post/tachy2gis-arch
 322,iraq-mortar,Iraq_mortar,Packages and libraries,https://open-archaeo.info/post/iraq-mortar
-323,archaeological-ethics-database,Archaeological Ethics Database,Lists and datasets,https://open-archaeo.info/post/archaeological-ethics-database
-324,fish-vocabularies,FISH Vocabularies,"Specifications, protocols and schemas",https://open-archaeo.info/post/fish-vocabularies
 325,elementsourcing,ElementSourcing,Scripts,https://open-archaeo.info/post/elementsourcing
 326,elemsource,elemSource,Packages and libraries,https://open-archaeo.info/post/elemsource
 327,ceramicapportioning,CeramicApportioning,Scripts,https://open-archaeo.info/post/ceramicapportioning
@@ -335,8 +243,6 @@ internal_id,id,name,category,URI
 334,skullanalyzer,skullanalyzer,Scripts,https://open-archaeo.info/post/skullanalyzer
 335,cranial-sex-estimation-code,cranial-sex-estimation-code,Scripts,https://open-archaeo.info/post/cranial-sex-estimation-code
 336,non-metric-trait-analysis,non-metric-trait-analysis,Scripts,https://open-archaeo.info/post/non-metric-trait-analysis
-337,caa,caa,Guides,https://open-archaeo.info/post/caa
-338,pta-data,pta_data,Lists and datasets,https://open-archaeo.info/post/pta-data
 339,p2pperm,p2pPerm,Scripts,https://open-archaeo.info/post/p2pperm
 340,near-presence-analysis,Near-Presence-Analysis,Scripts,https://open-archaeo.info/post/near-presence-analysis
 341,arothron,Arothron,Packages and libraries,https://open-archaeo.info/post/arothron
@@ -344,39 +250,21 @@ internal_id,id,name,category,URI
 343,kriging,kriging,Scripts,https://open-archaeo.info/post/kriging
 344,geostat,Geostat,Scripts,https://open-archaeo.info/post/geostat
 345,spdates,spDates,Packages and libraries,https://open-archaeo.info/post/spdates
-346,rxpand,rxpand,Lists and datasets,https://open-archaeo.info/post/rxpand
 347,katun,katun,Standalone software,https://open-archaeo.info/post/katun
 348,maya-calendar,maya-calendar,Standalone software,https://open-archaeo.info/post/maya-calendar
 349,chronochrt,chronochrt,Packages and libraries,https://open-archaeo.info/post/chronochrt
-350,3d-libraries-of-ships,3D libraries of ships,Lists and datasets,https://open-archaeo.info/post/3d-libraries-of-ships
 351,arbodat,ArboDat,Standalone software,https://open-archaeo.info/post/arbodat
 352,xronos,xronos.R,Packages and libraries,https://open-archaeo.info/post/xronos
-353,electronic-babylonian-literature-project,Electronic Babylonian Literature Project,"Specifications, protocols and schemas",https://open-archaeo.info/post/electronic-babylonian-literature-project
 354,archaeological-catalogue-from-csv-spreadsheet,Archaeological_Catalogue_from_CSV_Spreadsheet,Scripts,https://open-archaeo.info/post/archaeological-catalogue-from-csv-spreadsheet
-355,abc-of-archaeobotanical-open-science,ABC of Archaeobotanical Open Science,Lists and datasets,https://open-archaeo.info/post/abc-of-archaeobotanical-open-science
-356,open-science-in-phytolith-research,Open-Science-in-Phytolith-Research,Guides,https://open-archaeo.info/post/open-science-in-phytolith-research
-357,isoarch,IsoArcH,Lists and datasets,https://open-archaeo.info/post/isoarch
-358,bridging-the-gap-encode-database,Bridging the Gap ENCODE Database,"Specifications, protocols and schemas",https://open-archaeo.info/post/bridging-the-gap-encode-database
-359,aida,AIDA,Lists and datasets,https://open-archaeo.info/post/aida
 360,intcal,IntCal,Packages and libraries,https://open-archaeo.info/post/intcal
 361,scem,SCEM,Packages and libraries,https://open-archaeo.info/post/scem
 362,marbleplan,marbleplan,Standalone software,https://open-archaeo.info/post/marbleplan
 363,uniformprobabilitydensityanalysis,UniformProbabilityDensityAnalysis,Packages and libraries,https://open-archaeo.info/post/uniformprobabilitydensityanalysis
 364,charcoalhearths,charcoalhearths,Packages and libraries,https://open-archaeo.info/post/charcoalhearths
-365,p3k14c,p3k14c,Lists and datasets,https://open-archaeo.info/post/p3k14c
 366,p3k14c-data-scrubbing,p3k14c-data-scrubbing,Packages and libraries,https://open-archaeo.info/post/p3k14c-data-scrubbing
-367,isodatavis,IsoDataVis,Guides,https://open-archaeo.info/post/isodatavis
-368,isotope-visualisation,Isotope-Visualisation,Lists and datasets,https://open-archaeo.info/post/isotope-visualisation
-369,archaeological-sna-r-demo,archaeological-SNA-R-demo,Guides,https://open-archaeo.info/post/archaeological-sna-r-demo
-370,abma,ABMA,Guides,https://open-archaeo.info/post/abma
-371,analysing-stable-isotope-data,Analysing Stable Isotope Data,Guides,https://open-archaeo.info/post/analysing-stable-isotope-data
-372,plotting-dental-inventory-with-ggplot2,Plotting Dental Inventory with ggplot2,Guides,https://open-archaeo.info/post/plotting-dental-inventory-with-ggplot2
-373,isomapnl,IsoMapNL,Guides,https://open-archaeo.info/post/isomapnl
 374,rock-art-transfer-learning,rock-art-transfer-learning,Packages and libraries,https://open-archaeo.info/post/rock-art-transfer-learning
 375,uthwigl,UThwigl,Packages and libraries,https://open-archaeo.info/post/uthwigl
 376,totalopenstationtoqgis,totalopenstationToQgis,Packages and libraries,https://open-archaeo.info/post/totalopenstationtoqgis
-377,bibliographic-database-of-african-scholarship-on-african-archaeology,Bibliographic Database of African Scholarship on African Archaeology,Lists and datasets,https://open-archaeo.info/post/bibliographic-database-of-african-scholarship-on-african-archaeology
-378,globalid-database,GlobaLID-database,Lists and datasets,https://open-archaeo.info/post/globalid-database
 379,globalid-app,GlobaLID-App,Standalone software,https://open-archaeo.info/post/globalid-app
 380,clam,clam,Packages and libraries,https://open-archaeo.info/post/clam
 381,coffee,coffee,Packages and libraries,https://open-archaeo.info/post/coffee
@@ -391,33 +279,22 @@ internal_id,id,name,category,URI
 390,xdater,xDateR,Packages and libraries,https://open-archaeo.info/post/xdater
 391,kidstats,kidstats,Scripts,https://open-archaeo.info/post/kidstats
 392,trauma,tRauma,Scripts,https://open-archaeo.info/post/trauma
-393,pofatu,Pofatu,Lists and datasets,https://open-archaeo.info/post/pofatu
 394,pypofatu,pypofatu,Packages and libraries,https://open-archaeo.info/post/pypofatu
 395,pygeoroc,pygeoroc,Packages and libraries,https://open-archaeo.info/post/pygeoroc
 396,open-history-map,Open History Map,Standalone software,https://open-archaeo.info/post/open-history-map
 397,hsv-api,hsv-api,Standalone software,https://open-archaeo.info/post/hsv-api
-398,ohm-data-index,OHM Data Index,Lists and datasets,https://open-archaeo.info/post/ohm-data-index
 399,mask-uav,Mask_UAV,Packages and libraries,https://open-archaeo.info/post/mask-uav
-400,chi-field-manual,chi-field-manual,Guides,https://open-archaeo.info/post/chi-field-manual
-401,a-bibliography-of-public-archaeology-and-archaeological-heritage-management-in-the-mediterranean,A bibliography of public archaeology and archaeological heritage management in the Mediterranean,Lists and datasets,https://open-archaeo.info/post/a-bibliography-of-public-archaeology-and-archaeological-heritage-management-in-the-mediterranean
-402,charm,CHARM,"Specifications, protocols and schemas",https://open-archaeo.info/post/charm
-403,corallium-fabrica,Corallium Fabrica,Lists and datasets,https://open-archaeo.info/post/corallium-fabrica
-404,folio-tesselle,folio,Lists and datasets,https://open-archaeo.info/post/folio-tesselle
 405,sexest,SexEst,Packages and libraries,https://open-archaeo.info/post/sexest
 406,web-geochemistry,web_geochemistry,Packages and libraries,https://open-archaeo.info/post/web-geochemistry
 407,ithaca,ithaca,Packages and libraries,https://open-archaeo.info/post/ithaca
 408,archchron,archchron,Packages and libraries,https://open-archaeo.info/post/archchron
-409,tutorials,tutorials,Guides,https://open-archaeo.info/post/tutorials
 410,c14-date-extractor,c14-date-extractor,Scripts,https://open-archaeo.info/post/c14-date-extractor
 411,joint-disease-tool,joint-disease-tool,Packages and libraries,https://open-archaeo.info/post/joint-disease-tool
 412,pdf-to-nested-xml,pdf-to-nested-xml,Scripts,https://open-archaeo.info/post/pdf-to-nested-xml
-413,archeo-bertje,archeo-bertje,"Specifications, protocols and schemas",https://open-archaeo.info/post/archeo-bertje
 414,archaeo-crf,archaeo-CRF,Packages and libraries,https://open-archaeo.info/post/archaeo-crf
-415,mapofcomputationalarchaeology,MapofComputationalArchaeology,Products,https://open-archaeo.info/post/mapofcomputationalarchaeology
 416,chronup,chronup,Packages and libraries,https://open-archaeo.info/post/chronup
 417,recmod,recmod,Packages and libraries,https://open-archaeo.info/post/recmod
 418,timeperiod2daterange,timeperiod2daterange,Scripts,https://open-archaeo.info/post/timeperiod2daterange
-419,rarcheo,rarcheo,Guides,https://open-archaeo.info/post/rarcheo
 420,fellingdater,fellingDateR,Packages and libraries,https://open-archaeo.info/post/fellingdater
 421,rock-art-radnet,rock-art-radnet,Packages and libraries,https://open-archaeo.info/post/rock-art-radnet
 422,rock-art-ratopoviz,rock-art-ratopoviz,Packages and libraries,https://open-archaeo.info/post/rock-art-ratopoviz
@@ -426,19 +303,14 @@ internal_id,id,name,category,URI
 425,shootpoints-web,ShootPoints-Web,Standalone software,https://open-archaeo.info/post/shootpoints-web
 426,quantatools,quantatools,Packages and libraries,https://open-archaeo.info/post/quantatools
 427,bradypus,BraDypUS,Standalone software,https://open-archaeo.info/post/bradypus
-428,mastodon-archaeology,Mastodon-Archaeology,Lists and datasets,https://open-archaeo.info/post/mastodon-archaeology
 429,archaeoastroinsight,ArchaeoAstroInsight,Packages and libraries,https://open-archaeo.info/post/archaeoastroinsight
 430,pleistodist,PleistoDist,Packages and libraries,https://open-archaeo.info/post/pleistodist
 431,pleistodistr,PleistoDistR,Packages and libraries,https://open-archaeo.info/post/pleistodistr
 432,bioarch-r,BioArch_R,Packages and libraries,https://open-archaeo.info/post/bioarch-r
 433,bioprofile,BioProfile,Packages and libraries,https://open-archaeo.info/post/bioprofile
-434,nassa-modules,NASSA-modules,Lists and datasets,https://open-archaeo.info/post/nassa-modules
-435,material-sources-for-early-islam-and-late-antique-near-east,Material Sources for Early Islam and Late Antique Near East,Lists and datasets,https://open-archaeo.info/post/material-sources-for-early-islam-and-late-antique-near-east
 436,tpq-composer,TPQ-Composer,Packages and libraries,https://open-archaeo.info/post/tpq-composer
 437,artifacts-analyzer,Artifacts-Analyzer,Packages and libraries,https://open-archaeo.info/post/artifacts-analyzer
-438,paths-simple-vectorization-protocol,PAThs Simple Vectorization Protocol,Guides,https://open-archaeo.info/post/paths-simple-vectorization-protocol
 439,chronolog,ChronoLog,Standalone software,https://open-archaeo.info/post/chronolog
-440,intchron,IntChron,Lists and datasets,https://open-archaeo.info/post/intchron
 441,digss,DIGSS,Packages and libraries,https://open-archaeo.info/post/digss
 442,archaeosrp,archaeosrp,Packages and libraries,https://open-archaeo.info/post/archaeosrp
 443,ancient-artifacts,ancient-artifacts,Packages and libraries,https://open-archaeo.info/post/ancient-artifacts
@@ -448,7 +320,6 @@ internal_id,id,name,category,URI
 447,shoredate,shoredate,Packages and libraries,https://open-archaeo.info/post/shoredate
 448,civ5-prehistoric,civ5-prehistoric,Standalone software,https://open-archaeo.info/post/civ5-prehistoric
 449,archeoviz,archeoViz,Packages and libraries,https://open-archaeo.info/post/archeoviz
-450,archeoviz-portal,archeoViz Portal,Lists and datasets,https://open-archaeo.info/post/archeoviz-portal
 451,chronos,chronos,Packages and libraries,https://open-archaeo.info/post/chronos
 452,excavation-data-viewer,Excavation_data_viewer,Packages and libraries,https://open-archaeo.info/post/excavation-data-viewer
 453,archaeology-lili0824,ARchaeology,Standalone software,https://open-archaeo.info/post/archaeology-lili0824
@@ -464,7 +335,6 @@ internal_id,id,name,category,URI
 463,teethr,teethr,Packages and libraries,https://open-archaeo.info/post/teethr
 464,morphotype,morphotype,Packages and libraries,https://open-archaeo.info/post/morphotype
 465,morphotypeshiny,morphotypeShiny,Packages and libraries,https://open-archaeo.info/post/morphotypeshiny
-466,pleiades-datasets,pleiades.datasets,Lists and datasets,https://open-archaeo.info/post/pleiades-datasets
 467,archeos,ArcheOS,Standalone software,https://open-archaeo.info/post/archeos
 468,archeoshape,ArcheoShape,Standalone software,https://open-archaeo.info/post/archeoshape
 469,archaeolphytoliths,ArchaeolPhytoliths,Packages and libraries,https://open-archaeo.info/post/archaeolphytoliths
@@ -473,7 +343,6 @@ internal_id,id,name,category,URI
 472,edmwin,EDMWIN,Packages and libraries,https://open-archaeo.info/post/edmwin
 473,fabryka,fabryka,Scripts,https://open-archaeo.info/post/fabryka
 474,3d-spatial-ripley-analyses,3d_spatial_ripley_analyses,Scripts,https://open-archaeo.info/post/3d-spatial-ripley-analyses
-475,r-for-data-analysis-and-visualization-of-archaological-data,R for data analysis and visualization of Archaological Data,Guides,https://open-archaeo.info/post/r-for-data-analysis-and-visualization-of-archaological-data
 476,scroll-viewer,Scroll Viewer,Standalone software,https://open-archaeo.info/post/scroll-viewer
 477,mobest,mobest,Packages and libraries,https://open-archaeo.info/post/mobest
 478,vici-org,vici.org,Standalone software,https://open-archaeo.info/post/vici-org
@@ -483,10 +352,7 @@ internal_id,id,name,category,URI
 482,extendedmatrix,ExtendedMatrix,Standalone software,https://open-archaeo.info/post/extendedmatrix
 483,3d-survey-collection,3D-survey-collection,Packages and libraries,https://open-archaeo.info/post/3d-survey-collection
 484,em-blender-tools,EM-blender-tools,Packages and libraries,https://open-archaeo.info/post/em-blender-tools
-485,digging-digital-data,digging.digital.data,Lists and datasets,https://open-archaeo.info/post/digging-digital-data
-486,tutorial-autocad2018,tutorial-autocad2018,Guides,https://open-archaeo.info/post/tutorial-autocad2018
 487,coccionceramica,CoccionCeramica,Packages and libraries,https://open-archaeo.info/post/coccionceramica
-488,archaeology-machine-learning,archaeology-machine-learning,Lists and datasets,https://open-archaeo.info/post/archaeology-machine-learning
 489,rockart-textanalysis,rockart-textanalysis,Packages and libraries,https://open-archaeo.info/post/rockart-textanalysis
 490,weedeco,WeedEco,Packages and libraries,https://open-archaeo.info/post/weedeco
 491,croppro,CropPro,Packages and libraries,https://open-archaeo.info/post/croppro
@@ -495,17 +361,13 @@ internal_id,id,name,category,URI
 494,abma-tutorials,ABMA_tutorials,Standalone software,https://open-archaeo.info/post/abma-tutorials
 495,quantum-archeo,quantum-archeo,Scripts,https://open-archaeo.info/post/quantum-archeo
 496,chrongler,chrongler,Packages and libraries,https://open-archaeo.info/post/chrongler
-497,dendro-r,Dendro_R,Lists and datasets,https://open-archaeo.info/post/dendro-r
 498,arqub,ARQUB,Scripts,https://open-archaeo.info/post/arqub
 499,mafa,mafa,Packages and libraries,https://open-archaeo.info/post/mafa
-500,kart4arch,kart4arch,Guides,https://open-archaeo.info/post/kart4arch
 501,sitesyncro,SiteSyncro,Packages and libraries,https://open-archaeo.info/post/sitesyncro
 502,baorista,baorista,Packages and libraries,https://open-archaeo.info/post/baorista
 503,crom,crom,Packages and libraries,https://open-archaeo.info/post/crom
 504,carbondate,carbondate,Packages and libraries,https://open-archaeo.info/post/carbondate
 505,rjradiocarbon,RJradiocarbon,Packages and libraries,https://open-archaeo.info/post/rjradiocarbon
-506,mycenaean-atlas-project-,Mycenaean Atlas Project ,Lists and datasets,https://open-archaeo.info/post/mycenaean-atlas-project-
-507,curso-intro-r-arqueologia,Curso_Intro_R_Arqueologia,Guides,https://open-archaeo.info/post/curso-intro-r-arqueologia
 508,neonet,neonet,Packages and libraries,https://open-archaeo.info/post/neonet
 509,c14intervals,c14Intervals,Packages and libraries,https://open-archaeo.info/post/c14intervals
 510,surveyer,SurveyeR,Packages and libraries,https://open-archaeo.info/post/surveyer
@@ -514,15 +376,7 @@ internal_id,id,name,category,URI
 513,lakhesis,lakhesis,Packages and libraries,https://open-archaeo.info/post/lakhesis
 514,archaeomag,ArchaeoMag,Standalone software,https://open-archaeo.info/post/archaeomag
 515,autarch,AutArch,Standalone software,https://open-archaeo.info/post/autarch
-516,archaeological-fields-and-methods,archaeological-fields-and-methods,Lists and datasets,https://open-archaeo.info/post/archaeological-fields-and-methods
-517,dateback,dateback,Lists and datasets,https://open-archaeo.info/post/dateback
 518,paleographic-networks,paleographic-networks,Packages and libraries,https://open-archaeo.info/post/paleographic-networks
-519,course-guide,course-guide,Guides,https://open-archaeo.info/post/course-guide
-520,archeos-software-list,ArcheOS-software-list,Lists and datasets,https://open-archaeo.info/post/archeos-software-list
-521,gia,gia,Lists and datasets,https://open-archaeo.info/post/gia
-522,smada,smada,Lists and datasets,https://open-archaeo.info/post/smada
-523,oa-archaeology,OA-Archaeology,Lists and datasets,https://open-archaeo.info/post/oa-archaeology
-524,diamond,diamond,Lists and datasets,https://open-archaeo.info/post/diamond
 525,chronologr,chronologr,Packages and libraries,https://open-archaeo.info/post/chronologr
 526,carbonara-poc,carbonara_poc,Packages and libraries,https://open-archaeo.info/post/carbonara-poc
 527,tempo,tempo,Packages and libraries,https://open-archaeo.info/post/tempo
