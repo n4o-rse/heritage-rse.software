@@ -40,16 +40,16 @@ internal_id,id,name,URI
 39,arkmatrix,ArkMatrix,https://open-archaeo.info/post/arkmatrix
 40,harris2graph,harris2graph,https://open-archaeo.info/post/harris2graph
 41,harris-matrix-legacy,Harris-matrix-legacy,https://open-archaeo.info/post/harris-matrix-legacy
-42,harris-matrix,harris-matrix,https://open-archaeo.info/post/harris-matrix
-43,harris-matrix-1,harris-matrix,https://open-archaeo.info/post/harris-matrix-1
+42,harris-matrix-tsdye,harris-matrix,https://open-archaeo.info/post/harris-matrix-tsdye
+43,harris-matrix-semerj,harris-matrix,https://open-archaeo.info/post/harris-matrix-semerj
 44,le-stratifiant,Le Stratifiant,https://open-archaeo.info/post/le-stratifiant
 45,chronomodel,chronomodel,https://open-archaeo.info/post/chronomodel
 46,aoristaar,aoristAAR,https://open-archaeo.info/post/aoristaar
 47,archseries,archSeries,https://open-archaeo.info/post/archseries
 48,stratigraphr,stratigraphr,https://open-archaeo.info/post/stratigraphr
 49,archaeochron,ArchaeoChron,https://open-archaeo.info/post/archaeochron
-50,archaeophases,ArchaeoPhases,https://open-archaeo.info/post/archaeophases
-51,archaeophases-1,ArchaeoPhases,https://open-archaeo.info/post/archaeophases-1
+50,archaeophases-archaeostat,ArchaeoPhases,https://open-archaeo.info/post/archaeophases-archaeostat
+51,archaeophases-marieannevibet,ArchaeoPhases,https://open-archaeo.info/post/archaeophases-marieannevibet
 52,chronophage,Chronophage,https://open-archaeo.info/post/chronophage
 53,seriographe-eppm,Seriographe EPPM,https://open-archaeo.info/post/seriographe-eppm
 54,zooarch,zooaRch,https://open-archaeo.info/post/zooarch
@@ -143,7 +143,7 @@ internal_id,id,name,URI
 142,radiocarbon-scrapers,radiocarbon-scrapers,https://open-archaeo.info/post/radiocarbon-scrapers
 143,r-scripts,R-Scripts,https://open-archaeo.info/post/r-scripts
 144,roman-empire,roman-empire,https://open-archaeo.info/post/roman-empire
-145,roman-amphitheaters,roman-amphitheaters,https://open-archaeo.info/post/roman-amphitheaters
+145,roman-amphitheaters-sfsheath,roman-amphitheaters,https://open-archaeo.info/post/roman-amphitheaters-sfsheath
 146,ramphs,ramphs,https://open-archaeo.info/post/ramphs
 147,roman-maps,roman-maps,https://open-archaeo.info/post/roman-maps
 148,gorbit,gorbit,https://open-archaeo.info/post/gorbit
@@ -191,8 +191,8 @@ internal_id,id,name,URI
 190,la-icp-ms-routines-fmnh,LA_ICP_MS-Routines_FMNH,https://open-archaeo.info/post/la-icp-ms-routines-fmnh
 191,archaeology-on-wikipedia,archaeology_on_wikipedia.R,https://open-archaeo.info/post/archaeology-on-wikipedia
 192,tweet-edits-to-archaeology-articles,tweet-edits-to-archaeology-articles.R,https://open-archaeo.info/post/tweet-edits-to-archaeology-articles
-193,dayofarchaeology,dayofarchaeology,https://open-archaeo.info/post/dayofarchaeology
-194,dayofarchaeology-1,dayofarchaeology,https://open-archaeo.info/post/dayofarchaeology-1
+193,dayofarchaeology-benmarwick,dayofarchaeology,https://open-archaeo.info/post/dayofarchaeology-benmarwick
+194,dayofarchaeology-drmattlaw,dayofarchaeology,https://open-archaeo.info/post/dayofarchaeology-drmattlaw
 195,maacgis,maacgis,https://open-archaeo.info/post/maacgis
 196,disastermap,disastermap,https://open-archaeo.info/post/disastermap
 197,sipontomedievale,sipontomedievale,https://open-archaeo.info/post/sipontomedievale
@@ -200,7 +200,7 @@ internal_id,id,name,URI
 199,gods-on-the-barge,gods_on_the_barge,https://open-archaeo.info/post/gods-on-the-barge
 200,anatolia-bibliography-map,anatolia-bibliography-map,https://open-archaeo.info/post/anatolia-bibliography-map
 201,open-archaeo,open-archaeo,https://open-archaeo.info/post/open-archaeo
-202,archaeology,archaeology,https://open-archaeo.info/post/archaeology
+202,archaeology-steko,archaeology,https://open-archaeo.info/post/archaeology-steko
 203,ctv-archaeology,ctv-archaeology,https://open-archaeo.info/post/ctv-archaeology
 204,open-access-archaeology,Open Access Archaeology,https://open-archaeo.info/post/open-access-archaeology
 205,tools-for-quantitative-archaeology,Tools for Quantitative Archaeology,https://open-archaeo.info/post/tools-for-quantitative-archaeology
@@ -271,7 +271,7 @@ internal_id,id,name,URI
 270,skyscaper,skyscapeR,https://open-archaeo.info/post/skyscaper
 271,fastmarching,fastmaRching,https://open-archaeo.info/post/fastmarching
 272,adrac,aDRAC,https://open-archaeo.info/post/adrac
-273,seriation,seriation,https://open-archaeo.info/post/seriation
+273,seriation-mhahsler,seriation,https://open-archaeo.info/post/seriation-mhahsler
 274,bleiglas,bleiglas,https://open-archaeo.info/post/bleiglas
 275,calpal-database,CalPal-Database,https://open-archaeo.info/post/calpal-database
 276,neolithicr,neolithicR,https://open-archaeo.info/post/neolithicr
@@ -279,15 +279,15 @@ internal_id,id,name,URI
 278,idai-field,iDAI.field,https://open-archaeo.info/post/idai-field
 279,datplot,datplot,https://open-archaeo.info/post/datplot
 280,aoristic,aoristic,https://open-archaeo.info/post/aoristic
-281,outliner,outliner,https://open-archaeo.info/post/outliner
-282,outliner-1,outlineR,https://open-archaeo.info/post/outliner-1
+281,outliner-benmarwick,outliner,https://open-archaeo.info/post/outliner-benmarwick
+282,outliner-yesdavid,outlineR,https://open-archaeo.info/post/outliner-yesdavid
 283,thanados,THANADOS,https://open-archaeo.info/post/thanados
 284,swapdata,swapdata,https://open-archaeo.info/post/swapdata
 285,c14-laboratory-code,c14-laboratory-code,https://open-archaeo.info/post/c14-laboratory-code
 286,rapanui-radiocarbon,rapanui-radiocarbon,https://open-archaeo.info/post/rapanui-radiocarbon
 287,git-to-the-point,Git-to-the-Point,https://open-archaeo.info/post/git-to-the-point
 288,caddonet,caddonet,https://open-archaeo.info/post/caddonet
-289,seriation-1,Seriation,https://open-archaeo.info/post/seriation-1
+289,seriation-clipo,Seriation,https://open-archaeo.info/post/seriation-clipo
 290,openatlas,OpenAtlas,https://open-archaeo.info/post/openatlas
 291,statuaar,statuAAR,https://open-archaeo.info/post/statuaar
 292,postaar-python,postAAR-python,https://open-archaeo.info/post/postaar-python
@@ -295,7 +295,7 @@ internal_id,id,name,URI
 294,nonekxml,nonekXML,https://open-archaeo.info/post/nonekxml
 295,lecaar,lecAAR,https://open-archaeo.info/post/lecaar
 296,dimensio,dimensio,https://open-archaeo.info/post/dimensio
-297,folio,folio,https://open-archaeo.info/post/folio
+297,folio-nfrerebeau,folio,https://open-archaeo.info/post/folio-nfrerebeau
 298,yada,yada,https://open-archaeo.info/post/yada
 299,paleocar,paleocar,https://open-archaeo.info/post/paleocar
 300,the-southwestern-taphonomic-protocol,The Southwestern Taphonomic Protocol,https://open-archaeo.info/post/the-southwestern-taphonomic-protocol
@@ -309,7 +309,7 @@ internal_id,id,name,URI
 308,day-of-archaeology-archive,Day of Archaeology Archive,https://open-archaeo.info/post/day-of-archaeology-archive
 309,tachy2gis,Tachy2GIS,https://open-archaeo.info/post/tachy2gis
 310,bioanth,bioanth,https://open-archaeo.info/post/bioanth
-311,roman-amphitheaters-1,roman-amphitheaters,https://open-archaeo.info/post/roman-amphitheaters-1
+311,roman-amphitheaters-roman-amphitheaters,roman-amphitheaters,https://open-archaeo.info/post/roman-amphitheaters-roman-amphitheaters
 312,caribbean-14c,caribbean-14C,https://open-archaeo.info/post/caribbean-14c
 313,crop-origins-phylo,Crop_Origins_Phylo,https://open-archaeo.info/post/crop-origins-phylo
 314,nerd,NERD,https://open-archaeo.info/post/nerd
@@ -402,7 +402,7 @@ internal_id,id,name,URI
 401,a-bibliography-of-public-archaeology-and-archaeological-heritage-management-in-the-mediterranean,A bibliography of public archaeology and archaeological heritage management in the Mediterranean,https://open-archaeo.info/post/a-bibliography-of-public-archaeology-and-archaeological-heritage-management-in-the-mediterranean
 402,charm,CHARM,https://open-archaeo.info/post/charm
 403,corallium-fabrica,Corallium Fabrica,https://open-archaeo.info/post/corallium-fabrica
-404,folio-1,folio,https://open-archaeo.info/post/folio-1
+404,folio-tesselle,folio,https://open-archaeo.info/post/folio-tesselle
 405,sexest,SexEst,https://open-archaeo.info/post/sexest
 406,web-geochemistry,web_geochemistry,https://open-archaeo.info/post/web-geochemistry
 407,ithaca,ithaca,https://open-archaeo.info/post/ithaca
@@ -451,7 +451,7 @@ internal_id,id,name,URI
 450,archeoviz-portal,archeoViz Portal,https://open-archaeo.info/post/archeoviz-portal
 451,chronos,chronos,https://open-archaeo.info/post/chronos
 452,excavation-data-viewer,Excavation_data_viewer,https://open-archaeo.info/post/excavation-data-viewer
-453,archaeology-1,ARchaeology,https://open-archaeo.info/post/archaeology-1
+453,archaeology-lili0824,ARchaeology,https://open-archaeo.info/post/archaeology-lili0824
 454,stoneadvisor,StoneAdvisor,https://open-archaeo.info/post/stoneadvisor
 455,3d-edgeangle,3D_EdgeAngle,https://open-archaeo.info/post/3d-edgeangle
 456,isopleuros,isopleuros,https://open-archaeo.info/post/isopleuros
